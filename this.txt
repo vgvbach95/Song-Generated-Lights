@@ -1,0 +1,12 @@
+(424, 360, 820), #slate Blue
+(724,504,880), #Lavender
+(1024, 732,788), #Cherry Blossom Pink
+(616,824,940), #Cornflower (light blue)
+(932,600,488), #Dark Salmon
+(116,164,324), #Space Cadet
+(784,864,904), #Columbia Blue 2
+(728,408,440), #Rich Lilac
+(924,636,784), #Kobi (pink purple)
+(364,200,344), #japanese violet
+(532,384,544), #chinese violet
+(1000, 512,456) #Salmon 2

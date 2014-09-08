@@ -1,0 +1,3 @@
+0.458140916 sec per beat
+2.182734537 beats per sec
+661.368564711 beats
